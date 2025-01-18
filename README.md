@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-Python, Microsoft Excel, Machine Learning
+Tech Stack: Python, Microsoft Excel, Machine Learning
