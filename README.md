@@ -2,10 +2,10 @@
 Dataset (tweets.csv)
 The dataset contains approximately 2000 different (scrapped) tweets with the following attributes:
 
-'id' : unique 19 digit id for each tweet
-'created_at' : date & time of each tweet (or retweet)
-'text' : tweet details/ description
-'location' : origin of tweet
+1. 'id' : unique 19 digit id for each tweet
+2. 'created_at' : date & time of each tweet (or retweet)
+3. 'text' : tweet details/ description
+4. 'location' : origin of tweet
 
 ## Objective
 Text Analytics/NLP - to extract features from tweet texts
